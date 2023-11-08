@@ -7,3 +7,4 @@ This application uses
   geocoding: ^2.1.1
   lottie: ^2.7.0 for show animation from json images
 credit Mitch Koko https://www.youtube.com/watch?v=yLtpMqvMgdY
+![Snapshot](snap/Screenshot_1699368081.png)
